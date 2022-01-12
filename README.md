@@ -1,6 +1,9 @@
 # Spacegray Theme for Visual Studio Code
 Spacegray theme adapted for visual studio code.
 
+This is a slightly modifed version of the Spacegray Theme by Mihai Ionut Vilcu.
+It removes coloring from constants and variables.
+
 ## Base 16 Eighties
 <img src="https://raw.githubusercontent.com/ionutvmi/spacegray-vscode/master/screenshots/eighties.png" alt="" />
 
@@ -25,3 +28,4 @@ Mihai Ionut Vilcu
 
 ## Credits
 This theme is based on the [Spacegray](https://github.com/kkga/spacegray) theme for sublime text.
+

@@ -3,15 +3,15 @@
     "tokenColors": [
         {
             "settings": {
-                "lineHighlight": "#65737e30", 
-                "background": "#2b303b", 
-                "activeGuide": "#96b5b4", 
-                "stackGuide": "#343d46", 
-                "caret": "#c0c5ce", 
-                "selection": "#4f5b66", 
-                "foreground": "#c0c5ce", 
-                "invisibles": "#65737e", 
-                "guide": "#3b5364"
+                "lineHighlight" : "#65737e30",
+                "background"    : "#2b303b",
+                "activeGuide"   : "#96b5b4",
+                "stackGuide"    : "#343d46",
+                "caret"         : "#c0c5ce",
+                "selection"     : "#4f5b66",
+                "foreground"    : "#c0c5ce",
+                "invisibles"    : "#65737e",
+                "guide"         : "#3b5364"
             }
         }, 
         {
@@ -58,7 +58,7 @@
         }, 
         {
             "settings": {
-                "foreground": "#bf616a"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Variables", 
             "scope": "variable"
@@ -114,28 +114,28 @@
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Integers", 
             "scope": "constant.numeric"
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
-            }, 
+                "foreground": "#ADBAC7"
+            },
             "name": "Floats", 
             "scope": "none"
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Boolean", 
             "scope": "none"
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Constants", 
             "scope": "constant"
@@ -149,7 +149,7 @@
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Attributes", 
             "scope": "entity.other.attribute-name"
@@ -170,7 +170,7 @@
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Values", 
             "scope": "none"
@@ -185,7 +185,7 @@
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Units", 
             "scope": "keyword.other.unit"
@@ -222,7 +222,7 @@
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Link Url", 
             "scope": "meta.link"
@@ -236,7 +236,7 @@
         }, 
         {
             "settings": {
-                "foreground": "#d08770"
+                "foreground": "#ADBAC7"
             }, 
             "name": "Quotes", 
             "scope": "markup.quote"
